@@ -1,30 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p>Hello! Thank you for visiting my blog.</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>Over the last few years, I've been a bit of a career nomad. From 2011-2014, I camped out at Amazon's fashion start-up MyHabit as a Buyer and ad-hoc tool-builder. More recently, I worked on several web development projects at Razorfish as a Functional Analyst.</p>
 
-There are currently two themes built on Poole:
+<p>These experiences were wildly educational for me and opened my eyes to the start-up vibe, e-commerce, agency life, agile, and much more. Most of all, working alongside brilliantly smart humans showed me what passion can look like. These work experiences were fulfilling for me, but there was something lacking.</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<p>It hit me like a ton of bricks that all the while I was contributing to project teams: brainstorming, iterating, coordinating, documenting... what I really wanted to be doing was BUILDING. Which brought me to The Flatiron School. And here I am.</p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Contact Me
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* <a href="http://www.linkedin.com/in/rebeccalshapiro/en" target="_blank"> LinkedIn</a>
+* <a href="http://twitter.com/bshap27" target="_blank"> Twitter</a>
+* [Email](mailto:rshapiro3@gmail.com)

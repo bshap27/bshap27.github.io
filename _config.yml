@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Becca's Adventures in Code
+title:            Baby's First (Coding) Steps
 tagline:          A Blog for Nerds
-description:      description
+description:      A Blog for Nerds
 url:              http://bshap27.github.io/
 baseurl:          /
 
