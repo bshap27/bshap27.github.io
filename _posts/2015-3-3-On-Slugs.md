@@ -38,5 +38,6 @@ Finally, you may be wondering about the etymology of the word slug. I was too. E
 
 Open Questions and Other Resources:
 <li>How would <a href="http://en.wikipedia.org/wiki/Roy_Fielding">Roy Fielding</a>, the inventor of REST, feel about bit.ly?</li>
+<li>How about this? <a href="http://searchengineland.com/google-researchers-introduce-system-rank-web-pages-facts-not-links-215835">Google Researchers Introduce System To Rank Web Pages On Facts, Not Links</a>
 <li>Further reading: <a href="http://www.wpkube.com/seo-beginners-guide-to-permalinks-and-slugs/">SEO Beginners Guide to Permalinks and Slugs</a> (note: look at the URL for this article. Very RESTful).</li>
 <li>Did you know that if you <a href="https://www.youtube.com/watch?v=PsVj3Hjr5vw">lick a banana slug</a>, your tongue goes numb? (Fun fact, I've done it). </li>
