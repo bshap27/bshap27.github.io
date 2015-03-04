@@ -2,3 +2,7 @@ figcaption {
 	font-size: 10px;
 	margin-bottom: 15px;
 }
+
+.becca_border {
+	border: 2px dotted black;
+}
