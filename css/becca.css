@@ -1,0 +1,19 @@
+.hide_img {
+	visibility: hidden;
+}
+
+.logo {
+	font-size: 100px;
+	display: block;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	color: rgb(207, 82, 79);
+}
+
+/** {
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}*/
+
+/*.tagline {
+
+}*/
