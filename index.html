@@ -1,8 +1,28 @@
 ---
 layout: default
-title: Becca's Code Blog
+title: Home
 ---
 
-{% assign page = site.posts.first %}
-{% assign content = page.content %}
-{% include post.html %}
+<div class="content" id="home">
+{% for post in site.posts %}
+  <div id="post-info">
+	  <div id="cover-photo-container">
+      <img class='hide_img' id="cover-photo" src="/images/{{ page.cover }}">
+    </div>
+
+  	<div id="info-container">
+	    <h1 id="title">
+	      <a href="{{ post.url }}">
+	        {{ post.title }}
+	      </a>
+	    </h1>
+
+	    <span id="date">{{ post.date | date_to_string }}</span>
+    </div>
+  </div>
+
+  <div class="post">
+    {{ post.content }}
+  </div>
+{% endfor %}  
+</div>

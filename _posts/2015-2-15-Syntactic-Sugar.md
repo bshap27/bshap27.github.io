@@ -73,7 +73,7 @@ It looks gross without the sugar coat, right? What is this, even? Well, we're ca
 
 Now for an English comparison. I don’t know about you, but I hate typing on an iPhone. Now, this is kind of a bad example because sometimes autocomplete does exactly the opposite of what you want it to do.
 
-<a href="http://www.damnyouautocorrect.com/" target="_blank"><center><img src="images/autocorrect.jpg" width=40%></center></a>
+<a href="http://www.damnyouautocorrect.com/" target="_blank"><center><img src="/images/autocorrect.jpg" width=40%></center></a>
 
 But it also allows me to type the letter ‘u’ and it will automatically convert it to the word ‘you’ so that I don’t sound like a pre-teen. This eliminates 2 letter-taps of effort and yields the same end result (a text message that most likely contains the dancing cat girls emoji).
 

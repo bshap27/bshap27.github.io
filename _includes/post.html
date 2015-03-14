@@ -1,7 +1,5 @@
 <div class="content" id="home">
-  <div id="sidebar-button">
-    <img src="/images/sidebar-button.png">
-  </div>
+  
   <div id="post-info">
     <div id="cover-photo-container">
       <img class='hide_img' id="cover-photo" src="/images/{{ page.cover }}">
@@ -14,11 +12,26 @@
 
   <div class="post">
     {{ content }}
+
+  <div class="related">
+      <h2>Recent Posts</h2>
+      <ul class="related-posts">
+        {% for post in site.related_posts limit:3 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a> -
+              <small>{{ post.date | date_to_string }}</small>
+            
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
-  <div class="colophon">
-    <p>
-      <span id="pub-date">Published on {{ page.date | date_to_string }}</span> <span class="separator">&bull;</span>
-      <span id="social">Find me on <a href="">Twitter</a>!</span>
-    </p>
+
   </div>
-</div>
+  
+
+  
+
+
+
+
