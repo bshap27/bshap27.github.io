@@ -1,0 +1,25 @@
+<div class="sidebar" id="sidebar">
+  <div class="header">
+    <a class='logo' href="/"><3</a>
+    <span class="tagline">A Code Blog</span><span class="tagline">by Becca Shapiro</span>
+  </div>
+  <div class="posts">
+    <ul class="posts-list">
+      {% for post in site.posts %}
+        <li class="post-link">
+          <a class="post-title" href="{{ post.url }}">
+            <span class="post-date">{{ post.date | date_to_string }}</span>
+            {{ post.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="footer">
+    <span id="footer-links">
+      <a href="/2015/02/14/What.html" class="footer-link">About</a> <span class="separator">&bull;</span>
+      <a href="http://www.twitter.com/bshap27" class="footer-link" target="_blank">Twitter</a> <span class="separator">&bull;</span>
+      <a href="http://www.github.com/bshap27" class="footer-link" target="_blank">GitHub</a>
+    </span>
+  </div>
+</div>
