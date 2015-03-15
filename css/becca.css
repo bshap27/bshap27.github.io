@@ -25,6 +25,22 @@
  * there are no more previous or next posts to show.
  */
 
+table, th, td {
+  margin-top: -50px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+li.override_list {
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: 17px;
+}
+
+th, td {
+  padding: 3px;
+}
+
 .pagination {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
