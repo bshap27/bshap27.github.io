@@ -41,7 +41,7 @@ How are my assets, devise, and heroku even related? Well, I start researching De
 <u>Application configuration</u>
 
 I start vigorously searching stackoverflow.
-I add <%= javascript_include_tag :defaults %> to application.html.erb. No change.
+I add <%= javascript\_include\_tag :defaults %> to application.html.erb. No change.
 
 <u>Javascript Manifest File (mounting order)</u>
 
