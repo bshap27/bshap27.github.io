@@ -84,3 +84,7 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+code.language-css {
+  font-size: 14px;
+}
